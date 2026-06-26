@@ -42,6 +42,6 @@ I am a seasoned **BFSI (Ops & Customer Experience) professional with over 5 year
 ---
 
 ### 🤝 Connect With Me
-* 💼 **LinkedIn:** *[Insert Your LinkedIn Profile Link]*
-* ✉️ **Email:** *[Insert Your Professional Email]*
+* 💼 **LinkedIn:** *[linkedin/hello.ramkrishnamishra]*
+* ✉️ **Email:** *[hello.ramkrishnamishra@gmail.com]*
 * 🌍 **Location:** India
